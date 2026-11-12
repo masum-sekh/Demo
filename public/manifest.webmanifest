@@ -1,0 +1,10 @@
+{
+  "name": "Task Track",
+  "short_name": "Task Track",
+  "description": "Track study sessions, review your calendar, and build weekly momentum.",
+  "start_url": "/#stopwatch",
+  "display": "standalone",
+  "background_color": "#e3eef9",
+  "theme_color": "#e3eef9",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
